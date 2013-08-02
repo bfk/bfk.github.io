@@ -1,8 +1,7 @@
 ---
-
 layout: page
 title: History of Europeana
-
+published: true
 ---
 
 ## How did we get here?
@@ -15,3 +14,5 @@ title: History of Europeana
 * 2011 The New Renaissance Report (May 2011) by the Comité des Sages endorses Europeana as ‘the reference point for European culture online’. In October, the EC releases recommendations asking EU Member States to step up their efforts to contribute to Europeana.
 * 2012 Europeana releases all metadata under a CC0 waiver, making it freely available for re-use. Europeana’s collection reaches 25 million items.
 * 2013 Europeana continues to further its position as a catalyst for innovation and digital enterprise in support of the Digital Agenda for Europe - one of the pillars of the EU’s Europe 2020 strategy.
+
+![](/about/logo_English_Apples.jpg)
