@@ -15,4 +15,4 @@ published: true
 * 2012 Europeana releases all metadata under a CC0 waiver, making it freely available for re-use. Europeana’s collection reaches 25 million items.
 * 2013 Europeana continues to further its position as a catalyst for innovation and digital enterprise in support of the Digital Agenda for Europe - one of the pillars of the EU’s Europe 2020 strategy.
 
-![Europeana Logo](/about/logo_English_Apples.gif)
+![Europeana Logo](/logo_English_Apples.gif)
