@@ -1,0 +1,4 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://bfk.github.io/'
+  media: 'media'
