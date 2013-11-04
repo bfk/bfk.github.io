@@ -14,8 +14,7 @@ Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Al
 
 ### I'd like to say something about fonts
 
-![Font alternates for Europeana](/media/Fonts.png)
-
+![Fonts.png](/media/Fonts.png)
 
 > Quotes.
 
