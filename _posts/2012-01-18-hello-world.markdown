@@ -16,14 +16,11 @@ Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Al
 
 ![Fonts.png](/media/Fonts.png)
 
-> Quotes.
-
-![logo_English_Apples.gif](/media/logo_English_Apples.gif)
+> “I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.” 
+― Marilyn Monroe
 
 Test **bold**. 
 
 ### Subhead
-
-
 
 Proin feugiat libero ac lorem mollis fermentum. Cras et lacus sodales nisl facilisis ornare. Sed dolor eros, pulvinar ac varius non, bibendum eget odio. Nulla facilisi. Pellentesque et nisi a tellus ullamcorper faucibus. Nullam sagittis tempor mi non mattis. Proin ultricies, enim sit amet bibendum tristique, ligula ante feugiat nunc, sit amet imperdiet tortor nisl et felis. Pellentesque et nisl dui, non dictum libero. Vivamus tempor ante ac leo suscipit a sodales ligula iaculis. Curabitur massa mi, semper sed bibendum eget, auctor in nulla. Quisque at mi in ligula viverra suscipit sed vitae leo.
