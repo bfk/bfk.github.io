@@ -1,8 +1,6 @@
 ---
 layout: post
-title: 
-  - "Hello World!"
-  - "Hi, World!"
+title: "Hello World!,Hi, World!"
 category: API
 excerpt: "Hello World! Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie mauris mattis. Suspendisse semper consequat velit in suscipit."
 published: 
@@ -14,9 +12,6 @@ author: Breandán Knowlton
 Hello World!
 
 This is just a sample post.
-
-#### Plan
-![The plan for our Labs development](/media/LabsPlan.png)
 
 #### Paragraph
 
