@@ -44,3 +44,15 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://bfk.github.io/'
   media: 'media'
+  metadata:
+      "_posts":
+          layout: post
+          title: "Add a good headline"
+          author: "Add the author name"
+          category:
+          - Visualisation
+          - Search
+          - Clustering
+          - Linked Open Data
+          excerpt: "Add a good summary for your post"
+          published: true
