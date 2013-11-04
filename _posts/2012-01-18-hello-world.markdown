@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Hello World!"
+title: 
+  - "Hello World!"
+  - "Hi, World!"
 category: API
 excerpt: "Hello World! Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie mauris mattis. Suspendisse semper consequat velit in suscipit."
-published: true
+published: 
+  - true
+  - "true"
+author: Breandán Knowlton
 ---
 
 Hello World!
