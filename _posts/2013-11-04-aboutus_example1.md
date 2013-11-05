@@ -1,7 +1,5 @@
 ---
-published: 
-  - true
-  - "false"
+published: true
 layout: post
 title: Add a good headline
 author: Add the author name
@@ -23,3 +21,8 @@ The [Europeana Network](http://europeana.eu) is an open, expert forum comprising
 
 Our services are under constant development by content and technology projects, collectively referred to as the Europeana project group.
 
+#Who We Are
+ 
+Europeana is a catalyst for change in the world of cultural heritage.
+ 
+**Our mission**: The Europeana Foundation and its [Network](http://europeana.eu/) create new ways for people to engage with their cultural history, whether it's for work, learning or pleasure.
