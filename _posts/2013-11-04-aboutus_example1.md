@@ -1,5 +1,12 @@
 ---
-published: false
+published: 
+  - true
+  - "false"
+layout: post
+title: Add a good headline
+author: Add the author name
+category: "Visualisation,Search,Clustering,Linked Open Data"
+excerpt: Add a good summary for your post
 ---
 
 #Who We Are
@@ -15,3 +22,4 @@ The [Europeana Foundation](http://europeana.eu) is the operator of the Europeana
 The [Europeana Network](http://europeana.eu) is an open, expert forum comprising content holders and aggregators along with providers of technical, legal and strategic knowledge.
 
 Our services are under constant development by content and technology projects, collectively referred to as the Europeana project group.
+
