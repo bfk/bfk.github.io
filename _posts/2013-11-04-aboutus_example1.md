@@ -20,3 +20,10 @@ The [Europeana Foundation](http://europeana.eu) is the operator of the Europeana
 The [Europeana Network](http://europeana.eu) is an open, expert forum comprising content holders and aggregators along with providers of technical, legal and strategic knowledge.
 
 Our services are under constant development by content and technology projects, collectively referred to as the Europeana project group.
+
+**What We Do**
+
+- Aggregate – We are building the open, trusted source for European cultural content
+Facilitate – We support the cultural heritage sector through knowledge transfer, innovation and advocacy
+- Distribute – We make heritage available to people wherever they are, whenever they want it
+- Engage – We cultivate new ways for people to participate in their cultural heritage
