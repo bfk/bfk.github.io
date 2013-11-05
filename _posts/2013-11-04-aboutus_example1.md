@@ -1,7 +1,7 @@
 ---
-published: true
+published: false
 layout: post
-title: Add a good headline
+title: About Us
 author: Add the author name
 category: "Visualisation,Search,Clustering,Linked Open Data"
 excerpt: Add a good summary for your post
