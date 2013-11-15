@@ -11,7 +11,7 @@ author: Breandán Knowlton
 
 Hello World!
 
-This is just a sample post.
+This is just a sample post. With more text.
 
 #### Paragraph
 
